@@ -27,9 +27,12 @@ programa {
        caso 3:
       escreva("a subtração dos numero é: ", numero1 - numero2)
       pare
-      
+         caso 4:
+      escreva("a soma dos numero é: ", numero1 + numero2)
+      pare
+     } } enquanto (opcao !=0)
     
-    }}
+    
      
      }
    }
