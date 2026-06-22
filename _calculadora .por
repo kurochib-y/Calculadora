@@ -24,6 +24,9 @@ programa {
       caso 2:
       escreva("a multiplicação dos numero é: ", numero1 * numero2)
       pare
+       caso 3:
+      escreva("a subtração dos numero é: ", numero1 - numero2)
+      pare
       
     
     }}
